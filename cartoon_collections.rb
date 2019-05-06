@@ -11,11 +11,10 @@ def summon_captain_planet(array)
   array.map do |x|
     x.capitalize << "!"
   end
-  
 end
 
 def long_planeteer_calls# code an argument here
-  # Your code here
+
 end
 
 def find_the_cheese# code an argument here
